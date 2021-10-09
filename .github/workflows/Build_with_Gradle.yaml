@@ -8,7 +8,7 @@ name: Build with Gradle
 on: [push]
 
 jobs:
-  Build_with_Gradle:
+  build:
     runs-on: ubuntu-latest
 
     steps:
